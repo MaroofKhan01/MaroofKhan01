@@ -45,11 +45,7 @@ class DataAnalyst:
             "Data Visualization"
         ]
 
-    def say_hi(self):
-        print("Thanks for visiting my GitHub!")
-<p align="center">
-  <img src="assets/profile.jpg" width="180" height="180" style="border-radius:50%;">
-</p>
+   
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
